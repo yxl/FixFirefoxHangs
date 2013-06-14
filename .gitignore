@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+*.sdf
+
+/Debug
+/Release
+/ipch
